@@ -1,0 +1,64 @@
+body
+{
+	margin: 10px;
+	padding: 10px;
+
+}
+
+.Mycv
+{
+	text-align: center;
+	padding-right: 230px;
+	font-size: 60px;
+	content: "";
+  	display: table;
+    clear: both;
+    color: maroon;
+    	    background-image: url(cover.jpg);
+
+}
+
+.Mycv1
+{
+	text-align: center;
+}
+
+.Mycv2
+{
+	text-align: left;
+}
+
+
+.Mycv2 h1
+{
+	text-align: center;
+}
+
+.Mycv3 h1
+{
+	text-align: center;
+}
+
+.Mycv4 h1
+{
+	text-align: center;
+}
+
+
+.col
+{
+	margin-left: 30px;
+	float: left;
+  	width: 500px;
+  	 text-align: left; 
+}
+
+h1
+{
+	background-color: #CA9C67;
+}
+
+p
+{
+	font-size: 20px;
+}
